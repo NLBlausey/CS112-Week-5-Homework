@@ -87,7 +87,7 @@ public class Guess_A_Number
 			Replay = input.next();
 
 			g = (Replay.toUpperCase().equals("Y")) ? false : true;
-
+                        // The line above can be better coded...please see me in class.
 		}
 	}
 
